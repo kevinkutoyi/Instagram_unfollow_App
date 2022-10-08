@@ -1,5 +1,5 @@
 # Instagram_unfollow_App
-[visit site]()
+[visit site](https://kevinkutoyi.github.io/Instagram_unfollow_App/)
 
 Instructions:
 1. Copy the files (manifest.json and unfollow.js) to notepad or any editor with their file extensions.
