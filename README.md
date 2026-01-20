@@ -1,4 +1,4 @@
-# Instagram_unfollow_App
+# Instagram_unfollow_Followers_Script
 [visit site](https://kevinkutoyi.github.io/Instagram_unfollow_App/)
 
 Instructions:
