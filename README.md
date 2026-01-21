@@ -1,7 +1,7 @@
 # Instagram_unfollow_Followers_Script
-[visit site](https://kevinkutoyi.github.io/Instagram_unfollow_App/)
 
 Instructions:
+
 1. Copy the files (manifest.json and unfollow.js) to notepad or any editor with their file extensions.
 2. Save them in one folder
 3. Open your chrome settings extensions and load pack your folder.

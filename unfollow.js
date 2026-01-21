@@ -1,6 +1,6 @@
-const interval = 3000;
+const interval = 15000;
 
-const wait_delay = 3;
+const wait_delay = 15;
 
 const reload_after_unsub = 20;
 
